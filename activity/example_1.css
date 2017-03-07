@@ -1,0 +1,21 @@
+.professor_img {
+  weight: 150px;
+  height: 150px;
+  border: 1px;
+  float: left;
+}
+
+.professor_introduce {
+  float: inherit;
+}
+.professor_name {
+  font-size: 30px;
+}
+
+.professor_degress {
+  font-size: 30px;
+}
+
+.professor_email {
+  font-size: 30px;
+}
