@@ -1,21 +1,69 @@
 .professor_img {
   weight: 150px;
   height: 150px;
-  border: 1px;
+  border: 10px solid;
   float: left;
+  width: 33%;
+  margin-bottom: 100px;
 }
 
 .professor_introduce {
-  float: inherit;
+  float: left;
+  width: 67%;
+  padding-left: 40px;
+  border: 10px solid;
 }
 .professor_name {
   font-size: 30px;
+  border: 1px solid;
 }
 
 .professor_degress {
   font-size: 30px;
+  border: 1px solid;
 }
 
 .professor_email {
   font-size: 30px;
+  border: 1px solid;
+}
+
+#pro_n{
+  border: 1px solid;
+}
+
+#pro_r{
+  border: 1px solid;
+}
+
+.jumpotron{
+  border: 10px solid;
+}
+
+.col-sm-4{
+  border: 10px solid;
+}
+
+.student_image{
+  float: left;
+  width: 33%;
+  border: 3px solid;
+  weight: 100px;
+  height: 100px;
+}
+.student_infromation{
+  float: left;
+  width: 33%;
+  border: 5px solid;
+}
+
+.student_degree{
+  border: 3px solid;
+}
+
+.student_name{
+  border: 3px solid;
+}
+.student_email{
+  border: 3px solid;
 }
